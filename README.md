@@ -2,7 +2,9 @@
 
 As a fresh graduate I wanted to put my CV on my site who knows what it could bring. Not wanting my personal info to be scraped or merely added to a bottomless pit by recruiters I decided to build a tiny proof of concept. The snippet is nothing more than a tiny python script that validates a single post request.
 
-![Screenshot of knowledge wall form](/screenshot.png "Screenshot of knowledge wall form")
+<a href="http://www.thevelop.nl/about/">
+    ![Screenshot of knowledge wall form](/screenshot.png "Screenshot of knowledge wall form")
+</a>
 
 ## Set-up
 

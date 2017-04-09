@@ -3,7 +3,7 @@
 As a fresh graduate I wanted to put my CV on my site who knows what it could bring. Not wanting my personal info to be scraped or merely added to a bottomless pit by recruiters I decided to build a tiny proof of concept. The snippet is nothing more than a tiny python script that validates a single post request.
 
 <a href="http://www.thevelop.nl/about/">
-    <img src="/screenshot.png">
+    <img style="box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.5);" src="/screenshot.png">
 </a>
 
 ## Set-up

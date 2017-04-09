@@ -1,0 +1,1 @@
+This is the hidden content that is send as an attachment on passing the knowledgeWall.
